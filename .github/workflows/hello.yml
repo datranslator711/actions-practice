@@ -6,5 +6,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "Hello from GitHub Action"
-      - run: echo "Hello Duy Tran"
+      - run: echo "Hello Duy Anh Tran"
       - run: echo "Commit is ${{ github.sha }}"
